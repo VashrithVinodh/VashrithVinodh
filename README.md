@@ -8,7 +8,7 @@ I am a Masters student at Penn State University studying Cyber Analytics and Ope
 I hope to start my career as a cyber analyst or security engineer and make my way into cloud security.
 
 ## Projects
-- Phishing Detection Training App
+- Phishing Detection Training App - HackPSU Hackathon
 - Network Incident Analysis and Security Hardening
 - Network Vulnerability Scanner
 - Malware Analysis with SIEM Tools
