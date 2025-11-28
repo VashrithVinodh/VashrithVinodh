@@ -5,7 +5,7 @@
 This project used terraform to create a virtual private network that contained
 - A private subnet
 - A public subnet
-- An isolate subnet
+- An isolated subnet
 - An internet gateway
 - A network address tranlation table
 
@@ -50,6 +50,7 @@ If we select the VPC we just created and click on the resource map, we can see t
 ### Resource Map
 <img width="1394" height="484" alt="image" src="https://github.com/user-attachments/assets/1c680b2c-91a8-44f7-9bf6-ac8243c24d45" />
 <img width="1373" height="441" alt="image" src="https://github.com/user-attachments/assets/76dcbc59-1b4f-422d-8f99-ddc616094723" />
+
 
 
 
