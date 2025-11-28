@@ -13,6 +13,7 @@ I hope to start my career as a cyber analyst or security engineer and make my wa
 - Network Vulnerability Scanner
 - Malware Analysis with SIEM Tools
 
+## Skills
 ### Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
