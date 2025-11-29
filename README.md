@@ -5,7 +5,7 @@ I am a Masters student at Penn State University studying Cyber Analytics and Ope
 
 ## Objective
 
-I hope to start my career as a cyber analyst or security engineer and make my way into cloud security. This github is where I will upload my terraform code for cloud security project that I will create.
+I hope to start my career as a cyber analyst or security engineer and make my way into cloud security. This github is where I will upload my terraform code for cloud security projects that I will create.
 
 ## Projects
 - Phishing Detection Training App - HackPSU Hackathon
