@@ -50,6 +50,7 @@ I hope to start my career as a cyber analyst or security engineer and make my wa
 
 ### AWS
 <div>
+    <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white" />
     <img src="https://img.shields.io/badge/-VPC-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
