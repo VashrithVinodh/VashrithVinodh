@@ -8,6 +8,8 @@ I am a Masters student at Penn State University studying Cyber Analytics and Ope
 I hope to start my career as a cyber analyst or security engineer and make my way into cloud security. This github is where I will upload my terraform code for cloud security projects that I will create.
 
 ## Projects
+- AWS Honeybucket
+- AWS VPC Infrastucture
 - Phishing Detection Training App - HackPSU Hackathon
 - Network Incident Analysis and Security Hardening
 - Network Vulnerability Scanner
