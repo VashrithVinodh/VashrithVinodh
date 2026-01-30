@@ -32,8 +32,10 @@ This project implements a **Zero Trust Network Access (ZTNA)** architecture on A
 ---
 To validate the architecture, we attempt to connect to the server. Since there are no open ports, standard SSH fails. We successfully connect using the AWS CLI and the Session Manager plugin.
 
-**The Session ID**
-![[SessionID.png]]
+**Server Access**                              
+<img width="329" height="80" alt="image" src="https://github.com/user-attachments/assets/e44de947-8256-4efd-8b5b-c95edae0b235" />
 
-**Server Access**
-![[Server Access.png]]
+**Internet Connection**
+<img width="1052" height="517" alt="image" src="https://github.com/user-attachments/assets/154498f4-2d3a-4bf5-b07f-9bc4944b6764" />
+
+
