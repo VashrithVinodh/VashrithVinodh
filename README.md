@@ -11,13 +11,13 @@ I build automated security operations pipelines that reduce manual triage time, 
 
 | Project Title| Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**SOC Automation & Intel Lab**](https://github.com/VashrithVinodh/SOC-Automation-Lab) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
+| [**SOC Pipeline Automation Lab**](https://github.com/VashrithVinodh/SOC-Automation) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
 | [**AWS Honeybucket**](https://github.com/VashrithVinodh/AWS-Honeybucket) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
 | **ML Anomaly Sensor** | Custom Python sensor using K-Means clustering to detect lateral movement and data exfiltration in network traffic — proactive threat hunting. | `Python` `Scikit-Learn` `Pandas` |
 | [**Malware SIEM Investigation**](https://github.com) | Static and behavioral analysis of malware samples, correlating logs via SIEM to reconstruct complete attack timelines for incident response. | `SIEM` `Any.Run` `Wireshark` |
 | [**AI Phishing Guardian**](https://github.com/VashrithVinodh/phish-guardians) | Advanced detection tool leveraging Gemini Pro API to analyze social engineering tactics and address the Lockheed Cyber Kill Chain delivery stage. | `Gemini-API` `Python` `NLP` |
-| [**CI/CD Security Pipeline**](https://github.com) | Built a secure AWS pipeline with automated secret scanning and GitHub Actions integration — applying DevSecOps principles to SOC workflows. | `AWS` `GitHub-Actions` `DevSecOps` |
-| [**Enterprise Network Arch**](https://github.com/VashrithVinodh/Enterprise-Network) | Multi-zone infrastructure design with VLAN segmentation, firewall hardening, and Router-on-a-Stick — foundational knowledge for network defense. | `Cisco` `Packet Tracer` `Firewalls` |
+| [**CI/CD Security Pipeline**](https://github.com/VashrithVinodh/DevOps-Web-Project) | Built a secure AWS pipeline with automated secret scanning and GitHub Actions integration — applying DevSecOps principles to SOC workflows. | `AWS` `GitHub-Actions` `DevSecOps` |
+| [**Enterprise Network Arch**](https://github.com/VashrithVinodh/Secure-Enterprise-Network-Infrastructure) | Multi-zone infrastructure design with VLAN segmentation, firewall hardening, and Router-on-a-Stick — foundational knowledge for network defense. | `Cisco` `Packet Tracer` `Firewalls` |
 | [**Network Vuln-Scanner**](https://github.com) | Custom Python-based scanner to identify open ports, service versions, and misconfigurations — supporting vulnerability management in SOC. | `Python` `Nmap-API` `Socket` |
 | **Pen-Test Assessment** | Full-scope vulnerability assessment and penetration testing report — understanding adversary TTPs to improve detection engineering. | `Metasploit` `Nmap` `Report-Writing` |
 
