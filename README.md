@@ -1,65 +1,64 @@
-# Hello, I'm Vashrith Vinodh
-<a href="https://www.linkedin.com/in/vashrith-vinodh-7274b0380/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Vashrith Vinodh
+**M.S. Cyber Analytics & Operations @ The Pennsylvania State | B.S. Cyber Operations @ The Dakota State University**  
+*SOC Engineer | SOAR Automation | Detection Engineering | Threat Intelligence*
 
-I am a Masters student at Penn State University studying Cyber Analytics and Operations.
+I build automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams fight alert fatigue. My focus is on actionable detection engineering and repeatable incident response workflows.
 
-## Objective
+[<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vashrith-vinodh-7274b0380/)
+---
 
-I hope to start my career as a cyber analyst or security engineer and make my way into cloud security. This github is where I will document my projects to display my skills.
+### Featured Projects
 
-## Projects
-- Automated SOC Pipeline
-- Enterprise Network Architecture
-- AWS Honeybucket
-- AWS VPC Infrastucture
-- Phishing Detection Training App - HackPSU Hackathon
-- Network Incident Analysis and Security Hardening
-- Network Vulnerability Scanner
-- Malware Analysis with SIEM Tools
+| Project Title| Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**SOC Automation & Intel Lab**](https://github.com/VashrithVinodh/SOC-Automation-Lab) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
+| [**AWS Honeybucket**](https://github.com/VashrithVinodh/AWS-Honeybucket) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
+| **ML Anomaly Sensor** | Custom Python sensor using K-Means clustering to detect lateral movement and data exfiltration in network traffic — proactive threat hunting. | `Python` `Scikit-Learn` `Pandas` |
+| [**Malware SIEM Investigation**](https://github.com) | Static and behavioral analysis of malware samples, correlating logs via SIEM to reconstruct complete attack timelines for incident response. | `SIEM` `Any.Run` `Wireshark` |
+| [**AI Phishing Guardian**](https://github.com/VashrithVinodh/phish-guardians) | Advanced detection tool leveraging Gemini Pro API to analyze social engineering tactics and address the Lockheed Cyber Kill Chain delivery stage. | `Gemini-API` `Python` `NLP` |
+| [**CI/CD Security Pipeline**](https://github.com) | Built a secure AWS pipeline with automated secret scanning and GitHub Actions integration — applying DevSecOps principles to SOC workflows. | `AWS` `GitHub-Actions` `DevSecOps` |
+| [**Enterprise Network Arch**](https://github.com/VashrithVinodh/Enterprise-Network) | Multi-zone infrastructure design with VLAN segmentation, firewall hardening, and Router-on-a-Stick — foundational knowledge for network defense. | `Cisco` `Packet Tracer` `Firewalls` |
+| [**Network Vuln-Scanner**](https://github.com) | Custom Python-based scanner to identify open ports, service versions, and misconfigurations — supporting vulnerability management in SOC. | `Python` `Nmap-API` `Socket` |
+| **Pen-Test Assessment** | Full-scope vulnerability assessment and penetration testing report — understanding adversary TTPs to improve detection engineering. | `Metasploit` `Nmap` `Report-Writing` |
 
-## Skills
-### Tools
-Security Tools
-<div>
-<img src="https://img.shields.io/badge/-Wazuh-0054A6?style=for-the-badge&logo=Wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/-TheHive-FFBB00?style=for-the-badge&logo=TheHive&logoColor=black" />
-<img src="https://img.shields.io/badge/-Cortex-000000?style=for-the-badge&logo=Cortex&logoColor=white" />
-<img src="https://img.shields.io/badge/-MISP-3E4B5B?style=for-the-badge&logo=MISP&logoColor=white" />
-<img src="https://img.shields.io/badge/-Caldera-EF3D42?style=for-the-badge&logo=Caldera&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shuffle-3001?style=for-the-badge&logo=Shuffle&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-5A2D82?style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
-</div>
+---
 
-Programming & Scripting
-<div>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
-</div>
+### Technical Skills
 
-Frameworks & Systems
-<div>
-<img src="https://img.shields.io/badge/-SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOAR-000000?style=for-the-badge&logo=AutomationAnywhere&logoColor=white" />
-<img src="https://img.shields.io/badge/-MITRE_ATT%26CK-EF3D42?style=for-the-badge&logo=MITRE&logoColor=white" />
-<img src="https://img.shields.io/badge/-NIST-005A9C?style=for-the-badge&logo=Buffer&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=VMware&logoColor=white" />
-</div>
+**Security Operations & Detection**<br>
+![TheHive](https://img.shields.io/badge/-TheHive-FFBB00?style=flat-square&logo=TheHive&logoColor=black)
+![MISP](https://img.shields.io/badge/-MISP-3E4B5B?style=flat-square&logo=MISP&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-0054A6?style=flat-square&logo=Wazuh&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
+![CALDERA](https://img.shields.io/badge/-CALDERA-E11E26?style=flat-square&logo=AdversaryEmulation&logoColor=white)
 
-AWS & Infrastructure as Code
-<div>
-<img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-CloudTrail-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-EventBridge-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-</div>>
+**Automation & Programming**<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+**Cloud & Infrastructure**<br>
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
 
-## Certifications
-- Google Cybersecurity Professional
-- AWS Certified Cloud Practitioner - Training Badge
+---
+
+### Certifications
+
+- **CompTIA Security+** (Expected Apr 2026)
+- **Google Cybersecurity Professional** (Oct 2025)
+- **AWS Certified Cloud Practitioner - Training Badge**
+
+---
+
+### Experience
+
+**Instructional Assistant @ Penn State** *(Jan 2026 – Present)*  
+- Support 120 students in a Cybersecurity Capstone course (threat modeling, IR, forensics).  
+- Grade 30+ assignments weekly with feedback reinforcing investigative workflows.
+
+**Cybersecurity Student Researcher @ Dakota State** *(Oct 2023 – Jan 2024)*  
+- Executed replay attacks on IoT devices, analyzed 300+ LoRaWAN captures, and mapped TTPs to MITRE ATT&CK.
