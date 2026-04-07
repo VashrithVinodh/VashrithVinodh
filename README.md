@@ -25,24 +25,31 @@ I build automated security operations pipelines that reduce manual triage time, 
 
 ### Technical Skills
 
-**Security Operations & Detection**<br>
+**Security Tools and Platforms:** <br>
+![Wazuh](https://img.shields.io/badge/-Wazuh-0054A6?style=flat-square&logo=Wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white)
 ![TheHive](https://img.shields.io/badge/-TheHive-FFBB00?style=flat-square&logo=TheHive&logoColor=black)
 ![MISP](https://img.shields.io/badge/-MISP-3E4B5B?style=flat-square&logo=MISP&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-0054A6?style=flat-square&logo=Wazuh&logoColor=white)
+![Cortex](https://img.shields.io/badge/-Cortex-0099CC?style=flat-square&logo=Cortex&logoColor=white)
+![Shuffle](https://img.shields.io/badge/-Shuffle-FF6600?style=flat-square&logo=Shuffle&logoColor=white)
+![Sysmon](https://img.shields.io/badge/-Sysmon-0078D4?style=flat-square&logo=Windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
-![CALDERA](https://img.shields.io/badge/-CALDERA-E11E26?style=flat-square&logo=AdversaryEmulation&logoColor=white)
+![Caldera](https://img.shields.io/badge/-Caldera-E11E26?style=flat-square&logo=AdversaryEmulation&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square&logo=VirusTotal&logoColor=white)
 
-**Automation & Programming**<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Cloud & Infrastructure**<br>
+**Cloud and Infrastructure:** <br>
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)
+
+**Framework and Methodologies:** <br>
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT&CK-FF0000?style=flat-square)
+![NIST](https://img.shields.io/badge/-NIST%20SP%20800--61-0055A4?style=flat-square)
+![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-4A4A4A?style=flat-square)
+![OSINT](https://img.shields.io/badge/-OSINT-228B22?style=flat-square)
+
+**Languages:** <br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ---
 
