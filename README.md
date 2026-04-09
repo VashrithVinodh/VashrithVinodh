@@ -1,8 +1,8 @@
 # Vashrith Vinodh
-**M.S. Cyber Analytics & Operations @ The Pennsylvania State | B.S. Cyber Operations @ The Dakota State University**  
+**M.S. Cyber Analytics & Operations @ The Pennsylvania State University | B.S. Cyber Operations @ The Dakota State University**  
 *SOC Engineer | SOAR Automation | Detection Engineering | Threat Intelligence*
 
-I build automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams fight alert fatigue. My focus is on actionable detection engineering and repeatable incident response workflows.
+Experienced with automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams handle alert fatigue. My interest is on actionable detection engineering and repeatable incident response workflows.
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vashrith-vinodh-7274b0380/)
 ---
@@ -11,15 +11,17 @@ I build automated security operations pipelines that reduce manual triage time, 
 
 | Project Title| Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**SOC Pipeline Automation Lab**](https://github.com/VashrithVinodh/SOC-Automation) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
-| [**AWS Honeybucket**](https://github.com/VashrithVinodh/AWS-Honeybucket) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
+| [**Automated SOC Pipeline**](https://github.com/VashrithVinodh/SOC-Automation) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
+| [**AWS Honeypot**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/AWS%20Honeypot%20Project) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
+| [**AWS Zero Trust Network**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/Zero%20Trust%20Project) | Implemented a zero-trust network architecture in AWS with SSM, disabling all public ingress.. | `Terraform` `AWS` `IAM` |
+| [**AWS VPC With Terraform**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/AWS%20VPC%20Project) | Provisioned a secure VPC infrastructure in AWS with Terraform, including private, public, and isolated subnets alongside and Internet Gateway and NAT table. | `Terraform` `AWS` |
 | **ML Anomaly Sensor** | Custom Python sensor using K-Means clustering to detect lateral movement and data exfiltration in network traffic — proactive threat hunting. | `Python` `Scikit-Learn` `Pandas` |
-| [**Malware SIEM Investigation**](https://github.com) | Static and behavioral analysis of malware samples, correlating logs via SIEM to reconstruct complete attack timelines for incident response. | `SIEM` `Any.Run` `Wireshark` |
-| [**AI Phishing Guardian**](https://github.com/VashrithVinodh/phish-guardians) | Advanced detection tool leveraging Gemini Pro API to analyze social engineering tactics and address the Lockheed Cyber Kill Chain delivery stage. | `Gemini-API` `Python` `NLP` |
+| **Malware SIEM Investigation** | Static and behavioral analysis of malware samples, correlating logs via SIEM to reconstruct complete attack timelines for incident response. | `SIEM` `Any.Run` `Wireshark` |
+| [**Phishing Training Simulator**](https://github.com/VashrithVinodh/phish-guardians) | Advanced detection tool leveraging Gemini Pro API to analyze social engineering tactics and address the Lockheed Cyber Kill Chain delivery stage. | `Gemini-API` `Python` `NLP` |
 | [**CI/CD Security Pipeline**](https://github.com/VashrithVinodh/DevOps-Web-Project) | Built a secure AWS pipeline with automated secret scanning and GitHub Actions integration — applying DevSecOps principles to SOC workflows. | `AWS` `GitHub-Actions` `DevSecOps` |
-| [**Enterprise Network Arch**](https://github.com/VashrithVinodh/Secure-Enterprise-Network-Infrastructure) | Multi-zone infrastructure design with VLAN segmentation, firewall hardening, and Router-on-a-Stick — foundational knowledge for network defense. | `Cisco` `Packet Tracer` `Firewalls` |
-| [**Network Vuln-Scanner**](https://github.com) | Custom Python-based scanner to identify open ports, service versions, and misconfigurations — supporting vulnerability management in SOC. | `Python` `Nmap-API` `Socket` |
-| **Pen-Test Assessment** | Full-scope vulnerability assessment and penetration testing report — understanding adversary TTPs to improve detection engineering. | `Metasploit` `Nmap` `Report-Writing` |
+| [**Enterprise Network Architecture**](https://github.com/VashrithVinodh/Secure-Enterprise-Network-Infrastructure) | Multi-zone infrastructure design with VLAN segmentation, firewall hardening, and Router-on-a-Stick — foundational knowledge for network defense. | `Cisco` `Packet Tracer` `Firewalls` |
+| **Network Vulnerability Scanner** | Custom Python-based scanner to identify open ports, service versions, and misconfigurations — supporting vulnerability management in SOC. | `Python` `Nmap-API` `Socket` |
+| **Penetration Test Assessment** | Full-scope vulnerability assessment and penetration testing report — understanding adversary TTPs to improve detection engineering. | `Metasploit` `Nmap` `Report-Writing` |
 
 ---
 
