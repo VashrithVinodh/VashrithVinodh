@@ -11,6 +11,7 @@ Experienced with automated security operations pipelines that reduce manual tria
 
 | Project Title| Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**Azure SOAR**](https://github.com/VashrithVinodh/Azure-SOAR) | Built an end-to-end Security Operations Center pipeline on Microsoft Azure simulating a production enterprise environment. | `Microsoft Sentinel` `KQL` `Microsoft Defender` `Python` |
 | [**Automated SOC Pipeline**](https://github.com/VashrithVinodh/SOC-Automation) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
 | [**AWS Honeypot**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/AWS%20Honeypot%20Project) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
 | [**AWS Zero Trust Network**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/Zero%20Trust%20Project) | Implemented a zero-trust network architecture in AWS with SSM, disabling all public ingress.. | `Terraform` `AWS` `IAM` |
@@ -26,10 +27,10 @@ Experienced with automated security operations pipelines that reduce manual tria
 ---
 
 ### Technical Skills
-
 **Security Tools and Platforms:** <br>
 ![Wazuh](https://img.shields.io/badge/-Wazuh-0054A6?style=flat-square&logo=Wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=Microsoft&logoColor=white)
 ![TheHive](https://img.shields.io/badge/-TheHive-FFBB00?style=flat-square&logo=TheHive&logoColor=black)
 ![MISP](https://img.shields.io/badge/-MISP-3E4B5B?style=flat-square&logo=MISP&logoColor=white)
 ![Cortex](https://img.shields.io/badge/-Cortex-0099CC?style=flat-square&logo=Cortex&logoColor=white)
@@ -38,9 +39,12 @@ Experienced with automated security operations pipelines that reduce manual tria
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 ![Caldera](https://img.shields.io/badge/-Caldera-E11E26?style=flat-square&logo=AdversaryEmulation&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square&logo=VirusTotal&logoColor=white)
+![ProcDump](https://img.shields.io/badge/-ProcDump-0078D4?style=flat-square&logo=Windows&logoColor=white)
 
 **Cloud and Infrastructure:** <br>
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)
 
@@ -52,6 +56,7 @@ Experienced with automated security operations pipelines that reduce manual tria
 
 **Languages:** <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![KQL](https://img.shields.io/badge/-KQL-0078D4?style=flat-square&logo=Microsoft&logoColor=white)
 
 ---
 
