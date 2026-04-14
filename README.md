@@ -2,7 +2,8 @@
 **M.S. Cyber Analytics & Operations @ The Pennsylvania State University | B.S. Cyber Operations @ The Dakota State University**  
 *SOC Engineer | SOAR Automation | Detection Engineer | Threat Intelligence*
 
-Experienced with automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams handle alert fatigue. My interest is on actionable detection engineering and repeatable incident response workflows.
+Experienced with automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams handle alert fatigue. My interest is on actionable detection engineering and repeatable incident response workflows. <br>
+[**SOC Alert Triage and Writeups**](https://github.com/VashrithVinodh/SOC-Triage-Incident-Reports)
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vashrith-vinodh-7274b0380/)
 ---
