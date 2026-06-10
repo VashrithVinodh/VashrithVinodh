@@ -12,6 +12,7 @@ Experienced with automated security operations pipelines that reduce manual tria
 
 | Project Title| Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**AWS Automated IR**](https://github.com/VashrithVinodh/Automated-Incident-Respone-in-AWS) | Build an automated incident response pipeline in an AWS environment. | `Terraform` `Python (boto3)` `Lambda` `GuardDuty` |
 | [**Azure SOAR**](https://github.com/VashrithVinodh/Azure-SOAR) | Built an end-to-end Security Operations Center pipeline on Microsoft Azure simulating a production enterprise environment. | `Microsoft Sentinel` `KQL` `Microsoft Defender` `Python` |
 | [**Automated SOC Pipeline**](https://github.com/VashrithVinodh/SOC-Automation) | Architected a full-scale SOAR pipeline with TheHive for case management, Cortex for analysis, and MISP for threat intelligence sharing — reducing manual triage time by 90%. | `TheHive` `Cortex` `MISP` `CALDERA` `Wazuh` |
 | [**AWS Honeypot**](https://github.com/VashrithVinodh/VashrithVinodh/tree/main/Terraform%20Projects/AWS%20Honeypot%20Project) | Cloud-native threat detection pipeline using CloudTrail + Splunk + EventBridge + SNS. Reduced MTTD to 20 seconds. Deployed with Terraform. | `AWS` `Splunk` `Terraform` `Python` |
@@ -63,6 +64,6 @@ Experienced with automated security operations pipelines that reduce manual tria
 
 ### Certifications
 
-- **CompTIA Security+** (Expected Apr 2026)
+- **CompTIA Security+** (Apr 2026)
 - **Google Cybersecurity Professional** (Oct 2025)
 - **AWS Certified Cloud Practitioner - Training Badge**
