@@ -1,8 +1,8 @@
 # Vashrith Vinodh
 **M.S. Cyber Analytics & Operations @ The Pennsylvania State University | B.S. Cyber Operations @ The Dakota State University**  
-*SOC Engineer | SOAR Automation | Detection Engineer | Threat Intelligence*
+*Security Engineer | Cloud Security | Detection Engineer | Security Analyst*
 
-Experienced with automated security operations pipelines that reduce manual triage time, enrich alerts with threat intelligence, and help SOC teams handle alert fatigue. My interest is on actionable detection engineering and repeatable incident response workflows. <br>
+Security engineer specializing in automated incident response and infrastructure-as-code on AWS and Azure. Built detection rules that improved detection rates from 50% to 90% and automated IR workflows that reduced response time to under 10 seconds. <br>
 [**SOC Alert Triage and Writeups**](https://github.com/VashrithVinodh/SOC-Triage-Incident-Reports)
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vashrith-vinodh-7274b0380/)
