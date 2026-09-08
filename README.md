@@ -36,7 +36,6 @@ Built and published **10+ KQL and Sigma detections** across multiple MITRE ATT&C
 ![Microsoft Defender XDR](https://img.shields.io/badge/-Microsoft%20Defender%20XDR-0078D4?style=flat-square\&logo=Microsoft\&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square\&logo=Microsoft\&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-0054A6?style=flat-square)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square\&logo=Splunk\&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/-Sysmon-0078D4?style=flat-square\&logo=Windows\&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square\&logo=Wireshark\&logoColor=white)
 ![MISP](https://img.shields.io/badge/-MISP-3E4B5B?style=flat-square)
@@ -62,7 +61,6 @@ Built and published **10+ KQL and Sigma detections** across multiple MITRE ATT&C
 ![MITRE ATT\&CK](https://img.shields.io/badge/-MITRE%20ATT\&CK-FF0000?style=flat-square)
 ![NIST](https://img.shields.io/badge/-NIST%20SP%20800--61-0055A4?style=flat-square)
 ![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-4A4A4A?style=flat-square)
-![OSINT](https://img.shields.io/badge/-OSINT-228B22?style=flat-square)
 
 ---
 
